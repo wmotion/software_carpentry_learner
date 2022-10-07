@@ -1,7 +1,7 @@
 
 def minimum(some_list):
-    a = some_list[0]
-    for x in range(0, len(some_list)):
+    a = some_list[0] # Bug fixed
+    for x in range(1, len(some_list)):
         if some_list[x] < a:
             a = some_list[x]
     return a
