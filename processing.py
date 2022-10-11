@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 
 
 def visualize(filename):
+'''Visualizes the data'''
     # Import data
     data = numpy.loadtxt(fname=filename, delimiter=',')
 
@@ -28,6 +29,7 @@ def visualize(filename):
     
 
 def detect_problems(filename):
+'''Notifies known problems'''
     
     data = numpy.loadtxt(fname=filename, delimiter=',')
     
