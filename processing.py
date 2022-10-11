@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 
 
 def visualize(filename):
+''' I'm missing comments!'''
     # Import data
     data = numpy.loadtxt(fname=filename, delimiter=',')
 
