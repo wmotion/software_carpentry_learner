@@ -1,22 +1,8 @@
 
 import numpy
 import matplotlib.pyplot as plt
-"""This file contains two function """ 
-
-
-
-
-
-
-
-
-
-
-
-
 
 def visualize(filename):
-'''Visualizes the data and save an image file'''
     # Import data
     data = numpy.loadtxt(fname=filename, delimiter=',')
 
@@ -42,8 +28,6 @@ def visualize(filename):
     
 
 def detect_problems(filename):
-'''Notifies known problems'''
-    
     data = numpy.loadtxt(fname=filename, delimiter=',')
     
     max_inflammation = numpy.max(data, axis=0)
