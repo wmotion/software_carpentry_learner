@@ -1,7 +1,7 @@
 
 mport numpy
 import matplotlib.pyplot as plt
-
+""" Please describe what does this script do"""
 
 
 
