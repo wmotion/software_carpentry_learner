@@ -1,7 +1,7 @@
 
-mport numpy
+import numpy
 import matplotlib.pyplot as plt
-
+"""This file contains two function """ 
 
 
 
