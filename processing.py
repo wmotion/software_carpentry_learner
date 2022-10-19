@@ -14,6 +14,7 @@ import matplotlib.pyplot as plt
 
 
 
+
 def visualize(filename):
 '''Visualizes the data and save an image file'''
     # Import data
