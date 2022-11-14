@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 def visualize(filename):
 """
-somew remark about usage are needed
+some remark about usage are needed
 """
 
 
