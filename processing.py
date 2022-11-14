@@ -3,6 +3,11 @@ import numpy
 import matplotlib.pyplot as plt
 
 def visualize(filename):
+"""
+somew remark about usage are needed
+"""
+
+
     # Import data
     data = numpy.loadtxt(fname=filename, delimiter=',')
 
