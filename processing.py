@@ -1,6 +1,7 @@
 
 import numpy
 import matplotlib.pyplot as plt
+""" This is the info"""
 
 def visualize(filename):
     # Import data
