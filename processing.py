@@ -1,6 +1,6 @@
 import numpy
 import matplotlib.pyplot as plt
-""" This is the info"""
+""" This is the info, yet modified but not deleted"""
 
 def visualize(filename):
     # Import data
