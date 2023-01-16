@@ -1,5 +1,6 @@
 import numpy
 import matplotlib.pyplot as plt
+'''Irrelevant comment added in a ssh-based repository in a laptop'''
 
 def visualize(filename):
     # Import data
