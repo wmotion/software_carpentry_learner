@@ -2,6 +2,7 @@ import numpy
 import matplotlib.pyplot as plt
 
 # some additional info.
+# more text to create a conflict
 
 def visualize(filename):
     # Import data
