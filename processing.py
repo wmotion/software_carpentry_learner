@@ -1,6 +1,8 @@
 import numpy
 import matplotlib.pyplot as plt
 
+# some additional info.
+
 def visualize(filename):
     # Import data
     data = numpy.loadtxt(fname=filename, delimiter=',')
