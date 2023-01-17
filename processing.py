@@ -2,7 +2,7 @@ import numpy
 import matplotlib.pyplot as plt
 
 # some additional info.
-# this is giordano
+# this text to solve a conflict
 
 def visualize(filename):
     # Import data
