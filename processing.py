@@ -2,6 +2,10 @@ import numpy
 import matplotlib.pyplot as plt
 
 def visualize(filename):
+    """
+    A function to visualize data ...
+    """
+    
     # Import data
     data = numpy.loadtxt(fname=filename, delimiter=',')
 
