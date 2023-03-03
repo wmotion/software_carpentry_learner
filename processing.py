@@ -3,8 +3,9 @@ import matplotlib.pyplot as plt
 
 def visualize(filename):
     """
-    This function does visualise all
+    This function visualizes data
     """
+
     # Import data
     data = numpy.loadtxt(fname=filename, delimiter=',')
 
